@@ -1,0 +1,8 @@
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\bin\Debug\htOneCollections.dll
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\bin\Debug\htOneCollections.pdb
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\bin\Debug\nunit.framework.dll
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\bin\Debug\nunit.framework.xml
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\obj\Debug\htOneCollections.CollectionSettings.resources
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\obj\Debug\htOneCollections.csproj.GenerateResource.Cache
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\obj\Debug\htOneCollections.dll
+D:\c-sharp-lab\c-sharp-projects\htOneCollections\htOneCollections\obj\Debug\htOneCollections.pdb
